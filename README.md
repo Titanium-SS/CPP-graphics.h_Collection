@@ -2,14 +2,17 @@
 
 ## Language Used:
 <div align="center">
-    <img src="readme/CPP.png" width=220> 
+    <img src="readme/CPP.png" width=220>
+    <img src="readme/python.png" width=120 height=120> 
 </div>
 
 <hr>
 
-This repo contains C++ codes that use **graphics.h** library for performing basic graphics operations in Computer Graphics. The codes implement very basic CG Algorithms in **graphics.h** library in an interesting way. 
+This repo contains C++ codes that use **graphics.h** library for performing basic graphics operations in Computer Graphics. The codes implement very basic CG Algorithms in **graphics.h** library in an interesting way.
 
-The **graphics.h** library in C++ is a non-standard addition that was originally incorporated with the Turbo C / Turbo C++ compilers developed by Borland. This library is primarily utilized to incorporate graphical operations within a program. It offers a variety of functions that enable the creation of diverse shapes, the display of text in various fonts, color modifications, and more. The **graphics.h** library can be employed to construct graphics programs, animations, projects, and games. However, it is crucial to note that **graphics.h** is deemed outdated and is not typically used in contemporary programming. It is predominantly associated with DOS systems and older Windows systems that operated on DOS or included a DOS subsystem. For modern graphics programming, other libraries such as SDL, GTK+, Qt, and OGRE are frequently recommended. 
+The last 3 programs are written in Python performing 3D Transformations, due to the ease of use of languages and simple libraries like Numpy and Matplotlib. 
+
+The **graphics.h** library in C++ is a non-standard addition that was originally incorporated with the Turbo C / Turbo C++ compilers developed by Borland. This library is primarily utilized to incorporate graphical operations within a program. It offers a variety of functions that enable the creation of diverse shapes, the display of text in various fonts, color modifications, and more. The **graphics.h** library can be employed to construct graphics programs, animations, projects, and games. However, it is crucial to note that **graphics.h** is deemed outdated and is not typically used in contemporary programming. It is predominantly associated with DOS systems and older Windows systems that operated on DOS or included a DOS subsystem. For modern graphics programming, other libraries such as OpenGL, SFML, WebGL, Vulkan and OGRE are frequently recommended. 
 
 <hr>
 
